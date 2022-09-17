@@ -1,0 +1,11 @@
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\bin\Debug\BetterWord.exe.config
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\bin\Debug\BetterWord.exe
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\bin\Debug\BetterWord.pdb
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.csproj.AssemblyReference.cache
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.BetterWord.resources
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.Properties.Resources.resources
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.csproj.GenerateResource.cache
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.exe
+C:\Users\toshiba\Documents\GitHub\Better-Word\BetterWord\obj\Debug\BetterWord.pdb
